@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [The CookBook](https://github.com/leahharrison/cookbook)
 
-- 🌱 I’m currently learning **MERN stack, Angular, Vue**
+- 🌱 I’m currently learning **C and Python**
 
 - 👨‍💻 All of my projects are available at [https://leahharrison.netlify.app/](https://leahharrison.netlify.app/)
 
